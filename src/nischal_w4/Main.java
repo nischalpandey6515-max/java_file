@@ -18,7 +18,7 @@ class Employee extends Person {
     private String department;
 
     public Employee(String address, String department) {
-        super(address); // Call superclass constructor
+        super(address);
         this.department = department;
     }
 
