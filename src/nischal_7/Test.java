@@ -1,7 +1,6 @@
 package nischal_7;
 
 import java.util.Scanner;
-
 // Customer class
 class Customer {
     protected String firstName;
